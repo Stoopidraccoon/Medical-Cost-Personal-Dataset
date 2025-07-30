@@ -31,9 +31,9 @@ Line graph (Average charges by age and BMI)
 - Performed train-test split to evaluate generalization.
 
 # Evaluation Metrics
-- **Mean Absolute Error (MAE)**: 4181.19
-- **Root Mean Squared Error (RMSE)**: 5796.28
-- **R² Score**: 78.3593
+- Mean Absolute Error (MAE): **4181.19**
+- Root Mean Squared Error (RMSE): **5796.28**
+- R² Score: **78.3593**
 
 # Results and Insights
 Smoking status and BMI showed a strong influence on insurance charges.
